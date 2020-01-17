@@ -9,3 +9,5 @@ Notes on software requirements:
 Use the normal bootloader option when loading in arduino software (Rather than old bootloader).
 Requires the lady ada graphics library for the OLED (chip name?)
 Requires a specific RTC library, have to find.  Library has an example used to set the RTC with a specific syntax over the serial monitor.
+
+A lot of this work was started on work computer.
